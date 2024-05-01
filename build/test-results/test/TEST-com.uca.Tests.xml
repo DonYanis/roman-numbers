@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.uca.Tests" tests="7" skipped="0" failures="0" errors="0" timestamp="2024-05-01T13:54:59" hostname="DESKTOP-J473BOJ" time="0.073">
+  <properties/>
+  <testcase name="testComparator()" classname="com.uca.Tests" time="0.02"/>
+  <testcase name="testTypes()" classname="com.uca.Tests" time="0.013"/>
+  <testcase name="testRomanNumber()" classname="com.uca.Tests" time="0.001"/>
+  <testcase name="testValidty()" classname="com.uca.Tests" time="0.015"/>
+  <testcase name="testLowerCase()" classname="com.uca.Tests" time="0.001"/>
+  <testcase name="testConverter()" classname="com.uca.Tests" time="0.002"/>
+  <testcase name="testValidtyLowerCase()" classname="com.uca.Tests" time="0.012"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
